@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="shortcut icon" href="">
+        <script type="text/javascript" src="patrimonio.js"></script>
+        <link rel="stylesheet" href="tabela.css"/>
+
+        
+    </head>
+    
+    <body>
+        Aporte Inicial:<input type="number" step="0.01" id='nmAporte'>
+        Vl Cota:<input type="number" step="0.01" id='nmCota'>
+        Dividendo: <input type="number" step="0.01" id='nmDividendo'>
+        Meses: <input type="number" id='nmPrazo'>
+        Aporte Mensal:<input type="number" step="0.01" id='nmAporteMensal'>
+        
+        
+        <button id='btAcao' type="button" onclick="populaTabela()">Calcular</button>
+        <button id='btLimpar' type="button" onclick="limparTela()">Limpar</button>
+        
+        <div id='container'>
+            <table border="1">
+                <thead>
+                <tr>
+                    <th>Mes</th>
+                    <th>Cotas</th>
+                    <th>Saldo</th>
+                    <th>Patrimonio</th>
+                    <th>Dividendos Mes</th>
+                </tr>
+                </thead> 
+                <tbody>
+
+                </tbody>               
+            </table>
+
+        </div>
+
+    </body>
+
+
+</html>
