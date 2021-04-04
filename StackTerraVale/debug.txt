@@ -1,0 +1,19 @@
+An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+
+Farm.framework.js:2:45310
+    _JS_Log_Dump https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.framework.js:2
+    <anonymous> https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.wasm:1744794
+    <anonymous> https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.wasm:1745181
+    <anonymous> https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.wasm:1744351
+    <anonymous> https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.wasm:1742243
+    <anonymous> https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.wasm:4093118
+    <anonymous> https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.wasm:4086466
+    <anonymous> https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.wasm:4163192
+    <anonymous> https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.wasm:20858588
+    dynCall_vi https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.framework.js:2
+    dynCall https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.framework.js:2
+    dynCall_wrapper https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.framework.js:2
+    wrapper https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.framework.js:2
+    safeSetInterval https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.framework.js:2
+
+​
