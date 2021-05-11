@@ -17,3 +17,10 @@ Farm.framework.js:2:45310
     safeSetInterval https://v6p9d9t4.ssl.hwcdn.net/html/3600420/WebGL/Farm/Build/Farm.framework.js:2
 
 ​
+
+
+
+
+===new 202010405
+works in other browsers
+works in FFX in other PC
